@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "508045855365",
+    "firebase_url": "https://student-adda-5acea-default-rtdb.firebaseio.com",
+    "project_id": "student-adda-5acea",
+    "storage_bucket": "student-adda-5acea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508045855365:android:e9129a72345b1e1166b7ec",
+        "android_client_info": {
+          "package_name": "com.example.studentadda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508045855365-8acpkkms9d8o518vro95bvvv1681s3tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentadda",
+            "certificate_hash": "ba208a175dd010c14a7295b095f70d74545a33cc"
+          }
+        },
+        {
+          "client_id": "508045855365-9mit50ec2t2vmpbnng94ea3udbh41s63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6djg072uVdPh280TKPR7MJp6xwA1nWJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508045855365-9mit50ec2t2vmpbnng94ea3udbh41s63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
